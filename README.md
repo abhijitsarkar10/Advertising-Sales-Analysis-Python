@@ -1,4 +1,3 @@
-# Advertising-Sales-Analysis-Python
 # Advertising Sales Analysis & Prediction Using Python
 
 ## 📌 Project Overview
