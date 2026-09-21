@@ -1,12 +1,12 @@
 # Advertising Sales Analysis & Prediction Using Python
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the relationship between advertising expenditure and sales using Python and statistical analysis.
 
 The analysis explores how different advertising channels contribute to sales and uses Linear Regression to understand and predict sales performance.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze advertising expenditure and sales
 - Explore relationships between advertising channels and sales
