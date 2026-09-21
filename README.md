@@ -15,7 +15,7 @@ The analysis explores how different advertising channels contribute to sales and
 - Evaluate model performance
 - Generate business-oriented insights
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ The analysis explores how different advertising channels contribute to sales and
 - Linear Regression
 - Statistical Analysis
 
-## 📊 Analysis Workflow
+## Analysis Workflow
 
 1. Data Loading
 2. Data Exploration
@@ -39,6 +39,6 @@ The analysis explores how different advertising channels contribute to sales and
 8. Model Evaluation
 9. Business Insights
 
-## 📈 Key Analysis
+## Key Analysis
 
 The project examines the relationship between advertising channels and sales and applies regression analysis to understand how advertising expenditure is associated with sales.
